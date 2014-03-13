@@ -18,3 +18,5 @@ ViaProxy (proxy listens to requests and deliver registrations to registrar)
 SIP Location Service
 No database integration. Keeps data in memory (for now)
 OpenJSIP is based on SIP stack provided by JAIN-SIP project. Thanks to all the authors for this incredible work.
+
+https://code.google.com/p/openjsip/
